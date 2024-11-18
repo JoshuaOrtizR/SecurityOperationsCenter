@@ -35,5 +35,5 @@ Open XDR (Extended Detection and Response) is a cutting-edge security framework 
 * **Reduced Security Operations Costs:** By automating tasks and reducing manual effort, Open XDR can lower operational costs.
 * **Enhanced Security Posture:** A comprehensive view of the security landscape helps organizations identify and address vulnerabilities more effectively.
 
-![OpenXDR](https://github.com/user-attachments/assets/6d5503a8-2dcd-4797-ae5f-b4208ff3555b)
+![OpenXDR](https://github.com/user-attachments/assets/d385c381-9049-4e0f-ad6a-d303063e82d6)
 
