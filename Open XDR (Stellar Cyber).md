@@ -2,6 +2,8 @@
 
 Open XDR (Extended Detection and Response) is a cutting-edge security framework that consolidates various security tools and technologies into a unified platform. It's designed to enhance threat detection, incident response, and overall security posture by breaking down silos between disparate security solutions.
 
+![Dasboard](https://github.com/user-attachments/assets/b6cec39e-27c7-426e-8827-ceb51bd99dc0)
+
 **Core Components of Open XDR:**
 
  **Data Ingestion and Collection:**
