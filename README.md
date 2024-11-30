@@ -9,4 +9,4 @@ This section of my portfolio showcases a variety of real-world vulnerability typ
 - Case Management
 - Threat Intel Integration
   
-**Due to internal policies, I'm unable to share specific confidential details. However, the information presented here offers a  understanding of my hands-on Threat Inteligence and Asset Importance.**
+**Due to internal policies, I'm unable to share specific confidential details. However, the information presented here offers a understanding of my Hands-on Threat Inteligence and Asset Importance.**
