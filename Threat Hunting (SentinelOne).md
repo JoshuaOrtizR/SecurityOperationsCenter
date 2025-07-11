@@ -1,4 +1,4 @@
----
+
 ## Incident Analysis: Inbound RDP Connection and Suspected Compromise
 
 An external RDP connection was established to an internal endpoint, indicating a potential initial access vector. Activities suggest a multi-stage attack involving remote execution, lateral movement, persistence, and data exfiltration.
