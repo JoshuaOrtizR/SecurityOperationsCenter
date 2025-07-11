@@ -1,6 +1,6 @@
-### Stellar Cyber Study Notes
+### Stellar Cyber Notes
 
-**Case Score **
+**Case Score**
 * **Phases:** Detection, Analysis, Response
 * **Case Investigation Tools:**
   * **Key Investigation Elements:**
